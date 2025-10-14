@@ -1,0 +1,22 @@
+{
+  "Addition / Subtraction": [
+    {
+      "text": "Use a number line",
+      "image": "https://example.com/images/numberline.png"
+    },
+    {
+      "text": "Break numbers apart",
+      "image": "https://example.com/images/breaknumbers.png"
+    }
+  ],
+  "Multiplication / Division": [
+    {
+      "text": "Use arrays",
+      "image": "https://example.com/images/arrays.png"
+    },
+    {
+      "text": "Skip counting",
+      "image": "https://example.com/images/skipcount.png"
+    }
+  ]
+}
