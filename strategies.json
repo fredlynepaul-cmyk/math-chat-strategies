@@ -1,22 +1,80 @@
 {
   "Addition / Subtraction": [
     {
-      "text": "Use a number line",
-      "image": "https://example.com/images/numberline.png"
+      "text": "Use a number line to count up or back",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/numberline.png"
     },
     {
-      "text": "Break numbers apart",
-      "image": "https://example.com/images/breaknumbers.png"
+      "text": "Break numbers into tens and ones",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/breaknumbers.png"
+    },
+    {
+      "text": "Use fingers to add or subtract",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/fingers.png"
     }
   ],
   "Multiplication / Division": [
     {
-      "text": "Use arrays",
-      "image": "https://example.com/images/arrays.png"
+      "text": "Draw an array of objects",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/arrays.png"
     },
     {
-      "text": "Skip counting",
-      "image": "https://example.com/images/skipcount.png"
+      "text": "Skip count to find the answer",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/skipcount.png"
+    },
+    {
+      "text": "Use repeated addition for multiplication",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/repeated_addition.png"
+    }
+  ],
+  "Fractions": [
+    {
+      "text": "Divide shapes into equal parts",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/fractions.png"
+    },
+    {
+      "text": "Use pictures like pizza slices",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/pizza.png"
+    }
+  ],
+  "Measurement & Perimeter": [
+    {
+      "text": "Use a ruler to measure lengths",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/ruler.png"
+    },
+    {
+      "text": "Add up sides to find perimeter",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/perimeter.png"
+    }
+  ],
+  "Area": [
+    {
+      "text": "Count squares in a shape",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/count_squares.png"
+    },
+    {
+      "text": "Multiply length by width for rectangles",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/area_formula.png"
+    }
+  ],
+  "Place Value": [
+    {
+      "text": "Use base-ten blocks",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/base_ten.png"
+    },
+    {
+      "text": "Write numbers in expanded form",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/expanded_form.png"
+    }
+  ],
+  "Rounding Numbers": [
+    {
+      "text": "Look at the digit to the right",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/rounding_digit.png"
+    },
+    {
+      "text": "Round to the nearest ten or hundred",
+      "image": "https://raw.githubusercontent.com/fredlyne/math-chat-strategies/main/images/rounding_ten.png"
     }
   ]
 }
